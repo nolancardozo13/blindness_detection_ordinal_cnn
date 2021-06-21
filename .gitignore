@@ -1,0 +1,8 @@
+# Data files and directories common in repo root
+*.png
+*.pkl
+*.csv
+
+# Jupyter Notebook
+*/.ipynb_checkpoints
+.ipynb_checkpoints
