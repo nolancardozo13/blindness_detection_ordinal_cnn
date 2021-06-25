@@ -1,7 +1,12 @@
 # Data files and directories common in repo root
 *.png
 *.pkl
-*.csv
+
+!dataset/train_images/00a8624548a9.png
+!dataset/test_images/0a2b5e1a0be8.png
+!dataset/val_images/000c1434d8d7.png
+
+!images/*
 
 # Jupyter Notebook
 */.ipynb_checkpoints
