@@ -6,6 +6,10 @@
 !dataset/test_images/0a2b5e1a0be8.png
 !dataset/val_images/000c1434d8d7.png
 
+!dataset/test.csv
+!dataset/train.csv
+!dataset/train_val.csv
+
 !images/*
 
 # Jupyter Notebook
